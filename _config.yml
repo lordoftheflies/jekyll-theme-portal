@@ -1,0 +1,12 @@
+# Site settings
+title: GitLab pages test
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "/test/" # the subpath of your site, e.g. /blog/
+url: "steko.gitlab.io" # the base hostname & protocol for your site
+
+twitter_username: stekosteko
+github_username: steko
+
+# Build settings
+markdown: kramdown
