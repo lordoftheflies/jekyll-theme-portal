@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/creative/" # the subpath of your site, e.g. /blog/
 url: "https://jekyll-themes.gitlab.io" # the base hostname & protocol for your site
 
-twitter_username: stekosteko
-github_username: steko
+twitter_username: ""
+github_username: ""
 
 # Build settings
 markdown: kramdown
