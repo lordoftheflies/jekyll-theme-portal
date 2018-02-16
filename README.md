@@ -19,6 +19,10 @@ The theme includes a number of rich features and plugins that you can use as a g
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
+## Contributions
+
+Please submit a merge request and ping @marcia for review/merge
+
 ## Configurations:
 
 GitLab CI: [`.gitlab-ci.yml`]
