@@ -11,3 +11,4 @@ github_username: ""
 # Build settings
 markdown: kramdown
 exclude: ["README.md", "LICENSE"]
+theme: jekyll-theme-slate
